@@ -7,3 +7,5 @@ archivos_privados/
 # Ignorar los ficheros en bruto de Photoshop y Gimp
 *.xcf
 *.psd
+img/git_logo.xcf
+img/GitHub-logo.psd
